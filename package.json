@@ -1,0 +1,8 @@
+{
+  "name": "RxJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VolodymyrChykharivskyi/RxJS.git",
+  "author": "Volodymyr Chykharivskyi <v.chykharivskyi@gmail.com>",
+  "license": "MIT"
+}
